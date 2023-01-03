@@ -3,3 +3,4 @@
 2. It is nearly impossible to lose files when using Git.
 
 # Weaknesses
+1. Maintaining a Git history needs more file space.
