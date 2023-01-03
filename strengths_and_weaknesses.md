@@ -4,3 +4,4 @@
 
 # Weaknesses
 1. Maintaining a Git history needs more file space.
+2. Git cannot easily deal with large or binary files.
